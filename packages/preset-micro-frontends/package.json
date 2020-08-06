@@ -1,0 +1,16 @@
+{
+  "name": "@sensoro/walrus-preset-micro-frontends",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@walrus/plugin-release": "^1.8.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
