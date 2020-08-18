@@ -8,6 +8,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "@sensoro/walrus-plugin-build": "^1.0.0",
     "@walrus/plugin-release": "^1.8.1"
   },
   "publishConfig": {

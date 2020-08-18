@@ -1,5 +1,5 @@
 {
-  "name": "build",
+  "name": "@sensoro/walrus-plugin-build",
   "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

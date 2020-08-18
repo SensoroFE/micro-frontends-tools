@@ -1,8 +1,7 @@
 import { Config } from '@walrus/types';
 
 const config: Config = {
-  plugins: ['./packages/plugin-release/lib/index.js'],
-  presets: ['./packages/preset-lint/lib/index.js'],
+  presets: ['./packages/preset-micro-frontends/lib/index.js'],
   release: {}
 };
 
